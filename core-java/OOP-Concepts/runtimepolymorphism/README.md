@@ -1,0 +1,3 @@
+## Runtime or Dynamic Polymorphism
+
+Dynamic polymorphism is a process in which a call to an overridden method is resolved at runtime, that’s why it is called **runtime polymorphism**. Method Overriding is one of the ways to achieve Dynamic Polymorphism. In any object-oriented programming language, Overriding is a feature that allows a subclass or child class to provide a specific implementation of a method that is already provided by one of its super-classes or parent classes.

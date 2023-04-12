@@ -1,4 +1,4 @@
-package com.coffeegit.corejava.oop;
+package com.coffeegit.corejava.oop.abstracts;
 
 public class Rectangle extends Shape {
     double length;

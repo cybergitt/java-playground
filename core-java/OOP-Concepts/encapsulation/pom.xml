@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.coffeegit.corejava.oop</groupId>
-  <artifactId>encapsulations</artifactId>
+  <artifactId>encapsulation</artifactId>
   <version>1.0</version>
 
-  <name>encapsulations</name>
+  <name>encapsulation</name>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
